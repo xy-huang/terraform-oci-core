@@ -1,0 +1,10 @@
+AWS_DEFAULT_REGION=<region>
+AWS_ACCESS_KEY_ID=<access_key>
+AWS_SECRET_ACCESS_KEY=<secret_key>
+AWS_ENDPOINT_URL_S3=https://<bucket_namespace>.compat.objectstorage.<region>.oraclecloud.com
+AWS_DEFAULT_OUTPUT=json
+TF_VAR_tenancy_ocid=<tenancy_ocid>
+TF_VAR_user_ocid=<user_ocid>
+TF_VAR_region=<region>
+TF_VAR_fingerprint=<fingerprint>
+TF_VAR_private_key_path=<path_to_private_key>
